@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: AutoDisenchant
+## Notes: Распыление зелёных предметов через защищённую кнопку
+## Author: AI
+## Version: 1.1
+## SavedVariables: AutoDE_DB
+
+AutoDisenchant.lua
